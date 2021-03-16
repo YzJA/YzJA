@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YzJA
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning how to code
+- 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate on any projects
 
 <!---
