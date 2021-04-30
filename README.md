@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yazid
 - 👀 I’m interested in Technology
-- 🌱 I can work with HTML/CSS/Javascript and React
+- 🌱 I can work with HTML, CSS, Javascript, jQuery and React
 - 💞️ I’m looking to collaborate on Front End projects
 
 <!---
